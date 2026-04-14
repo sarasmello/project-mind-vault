@@ -1,30 +1,49 @@
-MIT License
+Licença MIT
 
-Copyright (c) 2026 Sara Smello
+Direitos automáticos (c) 2026 Sara Smello
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+# Licença e Termos de Uso
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 1. Licença MIT (Para o Código-Fonte)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Direitos automáticos (c) 2026 Sara Smello
+
+É concedida permissão, gratuita, a qualquer pessoa que obtenha uma cópia
+este software e arquivos de documentação associados (o "Software"), para lidar
+no Software sem restrições, incluindo, sem limitação, os direitos
+usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender
+cópias do Software e para permitir que pessoas a quem o Software é destinado
+fornecidos para tal, sujeitos às seguintes condições:
+
+O aviso de direitos automáticos acima e este aviso de permissão devem ser incluídos em todos
+cópias ou partes substanciais do Software.
+
+O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU
+IMPLÍCITO, INCLUINDO, MAS NÃO LIMITADO ÀS GARANTIAS DE COMERCIALIZAÇÃO,
+APTIDÃO PARA UM PROPÓSITO ESPECÍFICO E NÃO VIOLAÇÃO. EM NENHUMA HIPÓTESE O
+OS AUTORES OU DETENTORES DE DIREITOS AUTORES SERÃO RESPONDIDOS POR QUAL RECLAMAÇÃO, DANO OU OUTRO
+RESPONSABILIDADE, SEJA EM UMA AÇÃO CONTRATUAL, ILÍCITA OU DE OUTRA FORMA, DECORANTE DE,
+FORA OU EM CONEXÃO COM O SOFTWARE OU OU USO OU OUTRAS NEGOCIAÇÕES NO
+PROGRAMAS.
 
 ---
 
-TRADEMARK NOTICE
+## 2. Aviso de Marcas Registradas (Aviso de Marca)
 
-PMBOK®, PMP®, PMI®, and Project Management Professional® are registered
-trademarks of the Project Management Institute, Inc. This software is not
-affiliated with, endorsed by, or sponsored by PMI. Use of these terms is
-solely for descriptive and educational purposes.
+**PMBOK®, PMP®, PMI®, e Project Management Professional®** são marcas registradas do **Project Management Institute, Inc. (PMI)**. 
+
+Este software é uma iniciativa independente e **não posse afiliação, endosso ou patrocínio** por parte do PMI. O uso de termos registrados neste repositório tem finalidade puramente descritiva, acadêmica e educacional.
+
+---
+
+## 3. Restrições e Finalidade (Termos Adicionais)
+
+Para garantir o uso ético desta ferragem, como suas condições se aplicam:
+
+* **🚫 Proibição de Comercialização:** Este software é estritamente não comercial. É expressamente proibido a venda, aluguel, licenciamento pago ou qualquer forma de exploração financeira deste código ou de seus derivados.
+* **📚 Finalidade Educacional:** O objetivo único desta ferragem é o apoio ao estudo pessoal e a organização de conhecimentos para fins de aprendizagem.
+* **⚖️ Agnosticismo de Conteúdo:** Este repositório **não contém** o conteúdo do Guia PMBOK®. O usuário reconhece que é o público responsável por solicitar legalmente o material original de estudo. O software funciona como um motor de visualização para as anotações interpretativas do preço usuário.
+* **❌ Isenção de Garantia de Certificação:** O uso deste sistema não garante aprovação em exames oficiais de certificação.
+
+---
+*Este documento visa proteger a autora e os usuários, assegurando que a tecnologia aqui desenvolvida seja usada para o progresso do conhecimento de forma gratuita e legal.*
