@@ -233,7 +233,7 @@ O conteúdo educacional desta aplicação constitui **obra original** *inspirada
 
 ## 📄 Licença
 
-[MIT](LICENSE) © 2024 Sara Smello
+[MIT](LICENSE) © 2026 Sara Smello
 
 ---
 
